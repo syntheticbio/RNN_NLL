@@ -1,6 +1,8 @@
-%This code is to generate training data for the NN to learn the probability
-%distributions.
-%Last modified on Aug. 01, 2021
+%This code is to generate training data for the NN to learn the probability distributions.
+"""
+Created on Tue Sep 27 16:40:08 2020
+last modified: April 19, 2022
+"""
 %data structure:
 %1-4 input parameters, k_on, k_off, v,\delta
 %5-7 3 observations randomly drawn from probability distributions
