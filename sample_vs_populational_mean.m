@@ -1,5 +1,9 @@
 %This is the code to plot the sample means (mean_s) vs the populational means (mean_u) using
 %different sampel size.
+"""
+Created on Tue Sep 27 16:40:08 2020
+last modified: April 19, 2022
+"""
 
 clear all; close all; clc
 
